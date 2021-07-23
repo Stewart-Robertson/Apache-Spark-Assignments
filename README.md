@@ -4,7 +4,7 @@ This is a collection of assignnments completed via UC San Diego on EdX.
 
 This was the final class in the Data Science "Micromasters" course offered by UC San Diego.
 
-The class was taught by Professor Yoav Freund, the co-creator of the AdaBoost algorithm and these programming assignments constituted the bulk of the work.
+The class was taught by Professor Yoav Freund, the co-creator of the AdaBoost algorithm.
 
 A summary of the assignments is as follows:
 
